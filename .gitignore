@@ -2,3 +2,6 @@
 *.zip
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
+*.parquet
+.virtual_documents
+*.virtual_documents
