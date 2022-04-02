@@ -10,3 +10,6 @@ In this project we work on a dataset containing daily rainfall in NSW, Australia
 - Pavel Levchenko @plevchen)
 - Rong Li (@lirnish)
 - Sukhleen Kaur (@sukhleen999)
+
+## References:
+Data for analysis of this project is taken from https://figshare.com/articles/dataset/Daily_rainfall_over_NSW_Australia/14096681
